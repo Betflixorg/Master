@@ -1,0 +1,18 @@
+{
+  "name": "สูตรและวิธีการเล่นบาคาร่าที่ได้ผลมากที่สุด",
+  "main": "น้าหลามบาคาร่า",
+  "theme": "น้าหลามบาคาร่า",
+  "version": "2.30.0",
+  "description": "สูตรการเล่นบาคาร่า โดยทีมงานคุณภาพน้าหลาม เว็บตรงไม่ผ่านเอเย่นต์ วิธีการเล่นบาคาร่าที่ได้ผลมากที่สุด",
+  "keywords": [
+    "สูตรบาคาร่า",
+    "เทคนิคการเล่นบาคาร่า",
+    "สูตรโกงบาคาร่า"
+  ],
+  "repository": "https://www.youtube.com/channel/UCpvl9AZ11uwtwopaKxjPSDw",
+  "repository": "https://www.youtube.com/channel/UCpvl9AZ11uwtwopaKxjPSDw",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
